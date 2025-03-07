@@ -4,11 +4,6 @@ Python script to use ChatGPT on a raspberry pi 400 whilst emulating a keyboard.
 See usage intrustions for more information on what this actually does.
 
 
-# NOTICE
-I am a novice programmer and am just learning the basics of python and the raspberry pi in general. Expect things not to work, and if there is an issue, I will do what I can but it may not work out, and I am sorry. If you are able to contribute to this project, that would be great, however it was mostly a proof of concept and challenge for myself. This project may never be updated, however only time will tell.
-
-
-
 # Requirements
 1. Python3 - if you do not have it, install it with ```sudo apt update``` + ```sudo apt install python3```
 2. Python3-pip - if you do not have it, install it with ```sudo apt update``` + ```sudo apt install python3-pip```
@@ -86,7 +81,7 @@ Save and exit this file. To confirm everything worked successfully, reboot the p
 
 5. add "sudo python3 GPTBoard.py" to the end of your .bashrc in the home directory
 
-6. profit?
+6. test
 
 
 
